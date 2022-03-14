@@ -14,18 +14,16 @@ A Colorado Board of Election employee has given you the folowing tasks to comple
 - Software: Python 3.6.1, Visual Studio Code, 1.38.1
 
 ## Summary
-The analysis of the election show that:
-- There were "x" votes cast in the election.
-- The candidates were:
-     - Candidate 1
-     - Candidate 2
-     - Candidate 3
-- The candidate results were:
-     - Candidate 1 received "x%" of the vote and "y" number of votes.
-     - Candidate 2 received "x%" of the vote and "y" number of votes.
-     - Candidate 3 received "x%" of the vote and "y" number of votes.
-- The winner of the election was:
-     -Candidate (1, 2, or 3), who received "x%" of the vote and "y" number of votes.
+![image](https://user-images.githubusercontent.com/100230706/158097576-cf1967a8-b236-4792-9416-c046f6ee2864.png)
+
+
 ## Challenge Overview
 
+with Python, I calculated the percentage of the votes of each candidate and determine the winner of the election based on popular vote.
+
 ## Challenge Summary
+![image](https://user-images.githubusercontent.com/100230706/158097818-8175387e-a7e1-4b2f-b1eb-3da864553996.png)
+![image](https://user-images.githubusercontent.com/100230706/158097850-75eca264-3742-4769-93c2-1af6eb025b07.png)
+![image](https://user-images.githubusercontent.com/100230706/158097879-49d97e0e-3f7c-4291-a6cf-bde9ce64abaa.png)
+![image](https://user-images.githubusercontent.com/100230706/158097902-aa554282-609f-4fba-a1eb-dc7ed1bb42fb.png)
+![image](https://user-images.githubusercontent.com/100230706/158097929-bd4a8edc-7073-4039-8976-7afea9f30c06.png)

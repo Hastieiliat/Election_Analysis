@@ -27,3 +27,6 @@ with Python, I calculated the percentage of the votes of each candidate and dete
 ![image](https://user-images.githubusercontent.com/100230706/158097879-49d97e0e-3f7c-4291-a6cf-bde9ce64abaa.png)
 ![image](https://user-images.githubusercontent.com/100230706/158097902-aa554282-609f-4fba-a1eb-dc7ed1bb42fb.png)
 ![image](https://user-images.githubusercontent.com/100230706/158097929-bd4a8edc-7073-4039-8976-7afea9f30c06.png)
+
+## Deliverable 2
+![image](https://user-images.githubusercontent.com/100230706/158099234-cd993c80-2cd8-4296-a91e-2bae1fcdf73c.png)
